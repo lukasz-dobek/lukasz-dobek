@@ -1,16 +1,16 @@
-### Hi there 👋
+# ☕️🌵💻
 
-<!--
-**lukasz-dobek/lukasz-dobek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Higher beings, these words are for you alone.
+Your great strength marks you amongst us. 
+Focus your soul and you shall achieve feats of which others can only dream. 
+```
 
-Here are some ideas to get you started:
+🔭 I’m currently developing Service Level Objectives platform at Nobl9, helping people to be **good enough**. \
+🌱 I’m currently learning stoicism, leadership, Kubernetes, and how to water my plants. \
+💬 Ask me about software development, how to pronounce my name, working at startup, or AWS stuff. \
+📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/lukasz-dobek/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin"></a> 
+<a href="https://twitter.com/lukasz_dobek"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
+
