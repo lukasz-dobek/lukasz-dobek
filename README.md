@@ -13,5 +13,4 @@ Focus your soul and you shall achieve feats of which others can only dream.
 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/lukasz-dobek/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin"></a> 
-<a href="https://twitter.com/lukasz_dobek"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 
